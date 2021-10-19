@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+* {
+  margin: 0;
+}
+
+.App {
+  background-color: #111;
+  color: #fff;
+  font-family: "Bebas Neue", cursive;
+  letter-spacing: 2px;
+}
